@@ -189,7 +189,7 @@
     overflow: hidden;
     padding: 3px;
     isolation: isolate;
-    width: 80%;
+    width: fit content;
   }
   
   .codepen-button::before {
